@@ -18,6 +18,10 @@ app.use(express.json());
 app.use(cors());
 app.use(morgan("dev"));
 
+
+app.get("/health", (req, res) => {
+  res.send("Server is up and running");
+})
 //routes
 // 1 test route
 app.use("/api/v1/test", require("./routes/testRoutes"));
