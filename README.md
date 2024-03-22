@@ -1,14 +1,28 @@
-# Blood-Bank-Mern-Stack-Project
-complete mern stack blood bank project source code please check commits
+# Project Name
 
-## project playlist 🎞
-https://youtube.com/playlist?list=PLuHGmgpyHfRzs3VmqXkguFuNknQFbT0db
+Blood Bank Website
 
-# Thank you for watching TechinfoYT youtube channel
-😎 Please Like Share and Subscribe ! 🙏
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Credits](#credits)
 
-# Having Any Isuse Or Query DM On Instagram 🤷‍♀️
-https://www.instagram.com/technical_update/
+## Installation
+First i made backend of my project and after that i made my the frontend part then after that i connected the backend with the frontend.
 
+## Usage
+The use of this app in the blood donation and we will get the all record of the donar and all record of the hospital 
 
+## Contributing
+Some of my friend also help me to solve the error
+1.Ayush
+2.Sachin
+3.Saurabh
 
+## License
+This project is licensed under the [License Name](LICENSE).
+
+## Credits
+Acknowledgments of contributions or inspiration.
